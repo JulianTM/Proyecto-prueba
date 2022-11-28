@@ -1,0 +1,20 @@
+body{
+    color: black;
+    background-color: rgb(0, 162, 255);
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+}
+
+fieldset{
+    color: black;
+    box-shadow: 2px 2px 5px rgb(252, 59, 59);
+}
+form {
+    width: 50%;
+    margin: auto;
+}
+legend{
+    font-size: 25px;
+    font-weight: bold;
+}
